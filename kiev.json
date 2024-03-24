@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "crDroidAndroid-13.0-20240323-kiev-v9.15.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/kiev/9.x/crDroidAndroid-13.0-20240323-kiev-v9.15.zip/download",
-			"timestamp": 1711222486,
-			"md5": "3d4290ce611e1c0c47c6b287f0664c62",
-			"sha256": "f0c2c1cd45a71e77404365d09e14d0093e9478a94ffc456bb0217d9a9e5971b8",
-			"size": 1088181927,
+			"maintainer": "Lost-Entrepreneur439",
+			"oem": "Motorola",
+			"device": "One 5G Ace",
+			"filename": "crDroidAndroid-13.0-20240324-kiev-v9.15.zip",
+			"download": "https://github.com/Lost-Entrepreneur439/SM7225-releases/releases/download/2024-03-24/crDroidAndroid-13.0-20240324-kiev-v9.15.zip",
+			"timestamp": 1711310588,
+			"md5": "aa50e3260d64eb42104f8c4c6c09efcc",
+			"sha256": "616a6d99dccd9aba8669a1e3234a916cafdaa818330f59fa0722e502594ab0b2",
+			"size": 1088181139,
 			"version": "9.15",
-			"buildtype": "",
+			"buildtype": "Monthly",
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "",
+			"recovery": "https://github.com/Lost-Entrepreneur439/SM7225-releases/releases/download/2024-03-24/recovery.img",
 			"paypal": "",
 			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"dt": "https://github.com/LineageOS/android_device_motorola_kiev/tree/lineage-20",
+			"common-dt": "https://github.com/LineageOS/android_device_motorola_sm7250-common/tree/lineage-20",
+			"kernel": "https://github.com/LineageOS/android_kernel_motorola_sm7250/"
 		}
 	]
 }
