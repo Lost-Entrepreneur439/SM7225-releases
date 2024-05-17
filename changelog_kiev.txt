@@ -1,5 +1,109 @@
 ====================
-     03-24-2024
+     05-17-2024
 ====================
 
-Initial Release 
+   * vendor/addons
+e0032d9 addons: Update HarmonyOS Sans Font
+
+====================
+     05-16-2024
+====================
+
+   * android
+f86c1c6 Merge 'lineage-20.0' into 13.0
+
+   * build/make
+42487ab Merge 'lineage-20.0' into 13.0
+
+   * frameworks/base
+922b0be5 PixelPropsUtils: Update Spoof fingerprint (#1099) (#1100)
+
+   * vendor/lineage
+3045e4f crdroid: Bump to version 9.17
+
+====================
+     05-15-2024
+====================
+
+   * android
+f86c1c6 Merge 'lineage-20.0' into 13.0
+
+   * packages/apps/Aperture
+ba4d61e Automatic translation import
+
+   * packages/apps/AudioFX
+15e2a66 Automatic translation import
+
+   * packages/apps/Camera2
+e290e9e Automatic translation import
+
+   * packages/apps/DocumentsUI
+0458482 Automatic translation import
+
+   * packages/apps/Eleven
+3823761 Automatic translation import
+
+   * packages/apps/Etar
+8fe2cb3 Automatic translation import
+
+   * packages/apps/FlipFlap
+7c4c66d Automatic translation import
+
+   * packages/apps/Jelly
+45174a2 Automatic translation import
+
+   * packages/apps/Profiles
+78318ee Automatic translation import
+
+   * packages/apps/Recorder
+ddf4ffa Automatic translation import
+
+   * packages/resources/devicesettings
+de75bc1 Automatic translation import
+
+   * vendor/crowdin
+9a06bda Automatic translation import
+
+   * vendor/qcom/opensource/fm-commonsys
+3828520 Automatic translation import
+
+====================
+     05-14-2024
+====================
+
+   * packages/apps/Launcher3
+839c1d9 Launcher3: quickstep: TouchInteractionService: Do not crash on boot
+
+   * packages/apps/Settings
+e97ce52 Merge 'lineage-20.0' into 13.0
+
+====================
+     05-13-2024
+====================
+
+====================
+     05-12-2024
+====================
+
+====================
+     05-11-2024
+====================
+
+====================
+     05-10-2024
+====================
+
+   * packages/apps/crDroidSettings
+4e6465c New Crowdin updates (#1147)
+
+====================
+     05-09-2024
+====================
+
+====================
+     05-08-2024
+====================
+
+   * external/sonivox
+ef0e688 Merge tag 'android-security-13.0.0_r17' into staging/lineage-20.0_android-security-13.0.0_r17
+
